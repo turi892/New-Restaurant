@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # restaurant-app-mvp
 ## 1. Introduction
 1.1 Purpose
@@ -279,3 +280,6 @@ nnn src/theme.js
 The Restaurant App MVP provides a complete frontend demonstration of a modern restaurant ordering workflow. It
 combines authentication, menu browsing, search, cart management, promotions, reservations, checkout, order
 tracking, manager controls, local persistence, theming, and reusable React hooks. 
+=======
+# New-Restaurant
+>>>>>>> 1dc5dc329301bc40c85e1836f6806334b20a8542
